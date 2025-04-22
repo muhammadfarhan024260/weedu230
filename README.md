@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About me
 
 Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** with expertise in developing scalable, efficient, and high-performance applications. I specialize in **Object-Oriented Programming, Frontend Development, and Software Architecture**. My goal is to build innovative solutions that enhance user experiences and optimize performance.
 
@@ -18,7 +18,6 @@ Hey there! I'm **Muhammad Waleed Ahmed**, a passionate **Software Engineer** wit
 
 ### 🖥 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
